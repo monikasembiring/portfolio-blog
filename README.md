@@ -1,1 +1,0 @@
-This personal website created with GatsbyJs and TailwindCSS based on https://github.com/RyanFitzgerald/devfolio
