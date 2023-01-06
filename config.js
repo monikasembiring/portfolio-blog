@@ -12,4 +12,6 @@ module.exports = {
     twitter: 'https://twitter.com/monikasembiring',
     linkedin: 'https://www.linkedin.com/in/monikasembiring/',
   },
+  pathPrefix: '/blog',
+  siteUrl: 'https://monikasembiring.github.io/blog/',
 };
