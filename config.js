@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Portfolio Blog', // Required
   author: 'Monika Sembiring', // Required
-  description: 'I analyzes data to build products and solve problems around me. ',
+  description: 'I analyze data to build products and solve problems around me.',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
