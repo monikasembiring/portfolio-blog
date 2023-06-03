@@ -1,11 +1,7 @@
 # Welcome!
 
-This repository is I created to write down a more detailed story about my project that cannot have the code exposed due to privacy or my projects as product manager who are not having access to the code to be presented. Therefore, to facilitati this kind of project nature, I create this blog to tell a story about some projects I proud of. This blog is customized based on DevBlog template by Ryan Fitzgerald(https://ryanfitzgerald.github.io/devblog/).
+I created this repository to have a blog where I can write down a more detailed story about my project that **cannot have the code exposed due to privacy** or **my projects as a product manager who is not having access to the code to be presented**. This blog is customized based on the DevBlog template by Ryan Fitzgerald(https://ryanfitzgerald.github.io/devblog/).
 
-need story not all technical stuff. You can find my technical porfolio in monikasembiring.github.io
+For the other technical projects where I can share the code, you can check my technical portfolio on [monikasembiring.github.io](https://monikasembiring.github.io/).
 
-this is to aid my technical portfolio and showcase something not technical in story telling
-
-The blog itself is completely statically generated via GatsbyJS, comes with syntax highlighting (via PrismJS) out of the box, and has server-side rendering built-in, among other things.
-
-I hope you enjoy it and you find something useful in the blog!
+I hope you enjoy it and find something useful in the blog!
