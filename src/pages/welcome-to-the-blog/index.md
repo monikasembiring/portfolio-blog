@@ -1,7 +1,7 @@
 ---
 title: Welcome to the Blog!
 date: "2023-01-06"
-featuredImage: './featured.jpg'
+featuredImage: './hello.jpg'
 ---
 <!-- end -->
 
